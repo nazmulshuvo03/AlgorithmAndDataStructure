@@ -6,3 +6,6 @@ this code is from 'https://www.youtube.com/watch?v=GrueBnqMIsU&list=WL&index=3' 
 
 ## also following this playlist
 https://www.youtube.com/playlist?list=PL5tcWHG-UPH112e7AN7C-fwDVPVrt0wpV
+
+## following this playlist
+https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
